@@ -1,0 +1,13 @@
+{
+  "name": "OfficeShortcut",
+  "description": "Opens portal.office.com in incognito",
+  "version": "1.0",
+  "manifest_version": 3,
+  "background": {
+  "service_worker": "background.js"
+},
+  "icons": {
+    "128": "icon.png"
+  },
+  "action": {}
+}
