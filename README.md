@@ -5,4 +5,5 @@ Available on
 
 Edge add-on store: https://microsoftedge.microsoft.com/addons/detail/officeshortcut/kocgangpjodfpmemkppkihmbdlbblgba
 
-Chrome: https://chrome.google.com/webstore/detail/officeshortcut/hbkbohiejjnhmhgaljpgalmekmcckppg
+Chrome: 
+https://chrome.google.com/webstore/detail/officeshortcut/hbkbohiejjnhmhgaljpgalmekmcckppg
